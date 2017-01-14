@@ -1,6 +1,6 @@
 {
   "name": "code42day-addthis",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Load addthis.com snippet asynchronously.",
   "author": {
     "name": "Damian Krzeminski",
