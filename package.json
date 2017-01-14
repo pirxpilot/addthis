@@ -1,0 +1,28 @@
+{
+  "name": "code42day-addthis",
+  "version": "0.0.0",
+  "description": "Load addthis.com snippet asynchronously.",
+  "author": {
+    "name": "Damian Krzeminski",
+    "email": "pirxpilot@code42day.com",
+    "url": "https://code42day.com"
+  },
+  "repository": "code42day/code42day-addthis",
+  "license": "MIT",
+  "keywords": [
+    "code42day-addthis",
+    "addthis",
+    "browser"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "jshint": "^2.9.4"
+  },
+  "scripts": {
+    "test": "make check"
+  },
+  "files": [
+    "index.js",
+    "lib"
+  ]
+}
