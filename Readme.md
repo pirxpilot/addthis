@@ -1,20 +1,20 @@
 [![NPM version][npm-image]][npm-url]
 [![Dependency Status][gemnasium-image]][gemnasium-url]
 
-# code42day-addthis
+# addthis
 
 Load addthis.com snippet asynchronously.
 
 ## Install
 
 ```sh
-$ npm install --save code42day-addthis
+$ npm install --save addthis-snippet
 ```
 
 ## Usage
 
 ```js
-var addthis = require('code42day-addthis');
+var addthis = require('addthis-snippet');
 
 var config = {
     pubid: 'ra-XXXXXXXXXXXX'
@@ -43,10 +43,10 @@ addthis(config, share, function () {
 
 ## License
 
-MIT © [Damian Krzeminski](https://code42day.com)
+MIT © [Damian Krzeminski](https://pirxpilot.me)
 
-[npm-image]: https://img.shields.io/npm/v/code42day-addthis.svg
-[npm-url]: https://npmjs.org/package/code42day-addthis
+[npm-image]: https://img.shields.io/npm/v/addthis-snippet.svg
+[npm-url]: https://npmjs.org/package/addthis-snippet
 
-[gemnasium-image]: https://img.shields.io/gemnasium/code42day/code42day-addthis.svg
-[gemnasium-url]: https://gemnasium.com/code42day/code42day-addthis
+[gemnasium-image]: https://img.shields.io/gemnasium/pirxpilot/addthis.svg
+[gemnasium-url]: https://gemnasium.com/pirxpilot/addthis

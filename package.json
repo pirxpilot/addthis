@@ -1,16 +1,15 @@
 {
-  "name": "code42day-addthis",
+  "name": "addthis-snippet",
   "version": "1.0.0",
   "description": "Load addthis.com snippet asynchronously.",
   "author": {
     "name": "Damian Krzeminski",
-    "email": "pirxpilot@code42day.com",
-    "url": "https://code42day.com"
+    "email": "pirxpilot@furkot.com",
+    "url": "https://pirxpilot.me"
   },
-  "repository": "code42day/code42day-addthis",
+  "repository": "pirxpilot/addthis",
   "license": "MIT",
   "keywords": [
-    "code42day-addthis",
     "addthis",
     "browser"
   ],
