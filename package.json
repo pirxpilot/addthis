@@ -14,7 +14,7 @@
     "browser"
   ],
   "dependencies": {
-    "code42day-load": "^1.0.1"
+    "dynload": "^1.0.2"
   },
   "devDependencies": {
     "jshint": "^2.9.4"
@@ -22,11 +22,7 @@
   "scripts": {
     "test": "make check"
   },
-  "browser": {
-    "load": "code42day-load"
-  },
   "files": [
-    "index.js",
-    "lib"
+    "index.js"
   ]
 }
